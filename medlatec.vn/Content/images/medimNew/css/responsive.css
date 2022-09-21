@@ -1,0 +1,129 @@
+
+@media screen and (min-device-width: 991px) and (max-device-width: 5000px){
+    .mb{
+        display: none;
+    }
+}
+/*mobile*/
+
+@media screen and (min-device-width: 320px) and (max-device-width: 990px){
+    .pc{
+        display: none;
+    }
+   .title_s1 p {
+        font-size: 2.2rem;
+        color: orange;
+    }
+    .title_s1 strong {
+        font-size: 2.4rem;
+        color: #3c7dc1;
+    }
+    .text_content{
+        width: 90%;
+    }
+    .text_content p {
+        font-size: 1.6rem;
+    }
+    .sub_text {
+        margin-bottom: 26%;
+    }
+    .text_content span {
+        font-size: 1.6rem;
+        font-weight: 600;
+    }
+    .text_sec2 {
+        width: 90%;        
+        padding: 1% 0 2% 0;
+    }
+    .des_sec2 p {
+        font-size: 1.8rem;
+    }
+    strong.name_dr {
+        font-size: 2rem;
+        line-height: 22px;
+    }
+    p.position_dr {
+        font-size: 1.8rem;
+    }
+    .sub_text_s2 {
+        font-size: 1.8rem;
+    }
+    .title_s3 h3 {
+        font-size: 2.4rem;
+    }
+    .title_s3 p {
+        font-size: 1.8rem;
+    }
+    .box .heading h3 {
+        font-size: 1.8rem;
+    }
+    .title_s4 h4 {
+        font-size: 1.8rem;
+        width: 70%;
+    }
+    .content_tab_s4 div{
+        margin-bottom: 0;
+    }
+    .tablinks {
+         margin-left: 0%; 
+        font-size: 1.8rem;
+        width: 100%;
+    }
+    p.title_img_s4 {
+        font-size: 1.2rem;
+    }
+    .content_tab_s4 .mx-auto{
+        margin-bottom: 20px;
+    }
+    .cont_right p{
+        margin-top: -11.2%;
+    }
+    p.title_img_s4 {
+        width: 92%;
+        margin-top: -11%;
+    }
+    .cont_right p.title_img_s4 {
+        width: 95.2%;
+    }
+    .text_sec61>p {
+        padding-top: 12%;
+        font-size: 1.8rem;
+    }
+    .content_sec61 div{
+        margin-bottom: 20px;
+    }
+    .number_sec61 p {
+        font-size: 3.8rem;
+    }
+    .text_fst span {
+        font-size: 1.6rem;
+    }
+    .text_fst p {
+        font-size: 1.6rem;
+    }
+    .second_content {
+        font-size: 1.6rem;
+    }
+    .input-textt button{
+        font-size: 1.4rem;
+    }
+    .des_news {
+        font-size: 1.5rem;
+        line-height: 30px;
+    }
+    .title_news {
+        font-size: 1.5rem;
+    }
+    .img_sec61 img{
+        width: 80%;
+      }
+      .box .title a{
+        font-size: 1.7rem;
+      }
+      .box .description {
+        font-size: 1.8rem;
+    }
+    .form_regist{
+        width: 100%;
+    }
+}

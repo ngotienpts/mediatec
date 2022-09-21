@@ -1,0 +1,890 @@
+@media screen and (min-device-width:1850px) and (max-device-width: 1921px){
+    .chuyengia .title-h3{
+        padding: 0px;
+    }
+    .sapo-subtitle{
+        width: 100% !important;
+    }
+    .mb{
+        display: none !important;
+    }
+    .a1{
+        float: right;
+        width: 70%;
+    }
+    .a2{
+        float: left;
+        width: 70%;
+    }
+    .data .title-h3 {
+        padding: 22% 0 5px;
+        color: #fcfcfc;
+    }
+    .goikham .service {
+        padding: 2% 0 2%;
+    }
+    .regis_banner {
+        margin-top: -37%;
+        width: 25%;
+        margin-bottom: 10%;
+    }
+    .register-form input.form-control, .register-form select.form-control {
+        height: 50px;
+    }
+    .register-main .regis {
+        margin: 10% 9% 0;
+        width: 30%;
+    }
+    p.tech_decrep_detail {
+        font-size: 24px;
+    }
+    .goikham {
+        margin-top: -12%;
+    }
+    .goikham_covid {
+        padding-top: 8%;
+    }
+    .goikham_tq {
+        margin-top: -3%;
+    }
+
+}
+@media screen and (min-device-width:1620px) and (max-device-width: 1680px){
+    .goikham {
+        margin-top: -15%;
+    }
+    .sapo-subtitle{
+        width: 100% !important;
+    }
+    .goikham_covid {
+        padding-top: 10%;
+    }
+    .detail{
+        padding: 2% 0 20% 0;;
+    }
+    .chuyengia{
+        margin-top: -12%;
+    }
+    .chuyengia.doc_sec{
+        margin-top: -2%;
+    }
+    .a1{
+        float: right;
+        width: 70%;
+    }
+    .a2{
+        float: left;
+        width: 70%;
+    }
+    .goikham_tq .title_service{
+        width: 25%;
+        height: 50px;
+    }
+    .regis_banner {
+        width: 25%;
+        margin-bottom: 10%;
+        margin-top: -40%;
+    }
+    .register-form input.form-control, .register-form select.form-control {
+        height: 50px;
+    }
+    .register-main .regis {
+        margin: 10% 20% 0;
+        width: 28%;
+    }
+    .mb{
+        display: none !important;
+    }
+    
+    p.tech_decrep_detail {
+        font-size: 20px;
+    }
+}
+@media screen and (min-device-width:1401px) and (max-device-width: 1600px){
+    .goikham_tq {
+        margin-top: -2%;
+    }
+    .detail{
+        padding: 2% 0 20% 0;;
+    }
+    .a1{
+        float: right;
+        width: 70%;
+    }
+    .a2{
+        float: left;
+        width: 70%;
+    }
+    .chuyengia{
+        margin-top: -12%;
+    }
+    .chuyengia.doc_sec{
+        margin-top: -2%;
+    }
+    .goikham_tq .title_service{
+        width:25%;
+        height: 45px;
+    }
+    .regis_banner {
+        margin-top: -38%;
+        width: 25%;
+    }
+    .register-main {
+        background-image: url(../images/skdn/footer.png);
+        width: 100%;
+        height: 800px;
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    .register-form input.form-control, .register-form select.form-control {
+        height: 40px;
+    }
+    .register-main .regis {
+        margin: 12% 12% 10%;
+        width: 30%;
+    }
+    .mb{
+        display: none !important;
+    }
+}
+@media screen and (min-device-width:1300px) and (max-device-width: 1400px){
+    .regis_banner {
+        margin-left: 70%;
+        margin-top: -40%;
+    }
+    .detail{
+        padding: 2% 0 20% 0;;
+    }
+    .chuyengia{
+        margin-top: -15%;
+    }
+    .a1{
+        float: right;
+        width: 70%;
+    }
+    .a2{
+        float: left;
+        width: 70%;
+    }
+    .chuyengia.doc_sec{
+        margin-top: -2%;
+    }
+    .goikham_tq .title_service{
+        width: 40%;
+        height: 60px;
+    }
+    .register-main .regis {
+        margin: 10% 15% 0;
+        width: 30%;
+    }
+    .regis_banner {
+        width: 25%;
+        margin-bottom: 10%;
+    }
+    .register-form input.form-control, .register-form select.form-control {
+        height: 40px;
+    }
+    .mb{
+        display: none !important;
+    }
+    p.tech_title_detail{
+        font-size: 18px;
+    }
+    p.tech_decrep_detail {
+        margin-bottom: 8px;
+        font-size: 16px;
+    }
+    .register-form .title>span{
+        font-size: 20px;
+    }
+}
+@media screen and (min-device-width:1100px) and (max-device-width: 1280px){
+    .detail{
+        padding: 2% 0 20% 0;;
+    }
+    .regis_banner {
+        margin-left: 70%;
+        margin-top: -40%;
+    }
+    .a1{
+        float: right;
+        width: 70%;
+    }
+    .a2{
+        float: left;
+        width: 70%;
+    }
+    .register-form .title>span{
+        font-size: 18px;
+    }
+    .chuyengia{
+        margin-top: -15%;
+    }
+    .chuyengia.doc_sec{
+        margin-top: -2%;
+    }
+    .goikham_tq .title_service{
+        width: 40%;
+        height: 60px;
+    }
+    .register-main .regis {
+        margin: 10% 15% 0;
+        width: 30%;
+    }
+    .register-form input.form-control, .register-form select.form-control {
+        height: 38px;
+    }
+    .regis .form-group button{
+        margin-bottom: 0px;
+    }
+    .mb{
+        display: none !important;
+    }
+}
+@media screen and (min-device-width:1000px) and (max-device-width: 1024px){
+    .tt-sec1{
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+    .a1{
+        float: right;
+        width: 70%;
+    }
+    .a2{
+        float: left;
+        width: 70%;
+    }
+    .ratio{
+        margin-bottom: 2%;
+    }
+    .register-main .regis {
+        margin: 10% 10% 0;
+        width: 40%;
+    }
+    .tt_img{
+        margin: 2% 0;
+    }
+    .ratio_meaning{
+        padding-top: 5%;
+        width:70%;
+    }
+    .button_service>a, .button_service button {
+        font-size: 10px;
+    }
+    .text_pro p{
+        font-size: 12px;
+    }
+    header{
+        display: none;
+    }
+    .banner{
+        height: 500px;
+    }
+    .mb{
+        display: none !important;
+    }
+}
+
+/*mobile*/
+
+@media screen and (min-device-width: 320px) and (max-device-width: 820px){
+    .ratio_detail{
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .service a img{
+       /* width: 90% !important;*/
+    }
+    #subject{
+        margin-top: -35%;
+        padding-bottom: 20%;
+    } 
+    .ratio_number{
+        font-size: 50px;
+    }
+    p.ratio_title {
+        font-size: 35px;
+    }
+    .ratio_content{
+        margin: 2% 0 2% 0;
+    }
+    .ratio_content p {
+        font-size: 28px;
+    }
+    p.ratio_ft {
+        font-size: 30px;
+        line-height: 32px;
+    }
+    .ratio_meaning{
+        width: 70%;
+        margin-bottom: 20px;
+        height: 450px;
+    }
+    .title_service>p{
+        font-size: 30px;
+    }
+    .subject_text {
+        margin: 2% 2% 2% 2%;
+        height: 200px;
+        font-size: 30px;
+    }
+    .cost_service{
+        font-size: 45px;
+    } 
+    /*.time{
+        background-image: url(../images/gen/runtimemb.png);
+    }
+    .time_service{
+        font-size: 36px;
+    }
+    .time_service >p>b {
+        font-size: 40px;
+    }*/
+    .list_detail_service {
+        text-align: left;
+        margin-left: 10%;
+        font-size: 35px;
+    }
+    .service_option {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+    .sign_service a, .dk_ser a {
+        font-size: 28px;
+    }
+    .sign_service {
+        margin: 10px 0 10% 0;
+    }
+    .button_service>a, .button_service button{
+        font-size: 26px;
+    }
+    .button_service {
+        margin-bottom: 30px;
+    }
+    .detail_service {
+        font-size: 36px;
+    }
+    .main_detail .title p {
+        padding: 2%;
+        width: 50%;
+    }
+    .more_item .title_service>p {
+        padding-top: 5%;
+        font-size: 28px;
+        font-weight: 600;
+    }
+    .more_item .cost_service {
+        margin-top: 5%;
+        font-size: 50px;
+        font-weight: 600;
+    }
+    .more_item .detail_service {
+        font-size: 36px;
+    }
+    .more_item{
+        height: auto;
+    } 
+    p.tech_title_detail {
+        font-size: 34px;
+        line-height: 38px;
+        margin: 38px 5% 5px;
+    }
+    p.tech_decrep_detail {
+        text-align: left;
+        font-size: 28px;
+        margin: 0px 5% 5px;
+    }
+    .device_title img {
+        width: 80%;
+        margin-top: -10%;
+        margin-left: -15%;
+    }
+    .introduce .box .heading{
+        margin: 0px 90px -350px 550px;
+        height: 400px;
+    }
+    .title_service{
+        height: 100px;
+        width: 80%;
+    } 
+    .body-skdn .sapo-subtitle{
+        width: 100%;
+        font-size: 3vw;
+    }
+    .detail{
+        padding: 2% 0 70% 0;
+    }
+    .dk_ser a {
+        font-size: 38px;
+    }
+    .data{
+        background-image: url(../images/skdn/Sec03-BG.png);
+        background-size: 100%;
+    }
+    .data_content{
+        width: 100%;
+        padding: 0;
+    }
+    .img_sec3>img.mb{
+        width: 100%;
+    }
+    .chuyengia_slider{
+        width: 100%;
+    }
+    .ser_slider .owl-dots{
+        position: absolute;
+        left: 47%;
+    }
+    .ser_slider.owl-carousel button.owl-dot {
+        width: 25px;
+        height: 25px;
+        float: left;
+        background: #ff7703 none;
+        opacity: .5;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
+        margin: 0 2px;
+    }
+    .ser_slider.owl-carousel button.owl-dot.active {
+        opacity: 1;
+    }
+    .owl-carousel.ser_slider .owl-item img{
+        width: 88% !important;
+    }
+    .title_chuyengia {
+        width: 80%;
+        height: 70px;
+    }
+    .goikham_tq .title_service{
+        width: 60%;
+        height: 70px;
+    }
+    .tt_ser {
+        font-size: 26px;
+    }
+    .tt_ser.active {
+        font-size: 30px;
+    }
+    .title_chuyengia p {
+        padding-top: 3%;
+        font-size: 32px;
+    }
+    .data1,.data2,.data3,.data4{
+        height: 365px;
+    }  
+    .sapo-subtitle>i{
+        font-size: 35px;
+    }
+    .discount {
+        width: 40%;
+    }
+    .titles {
+        font-size: 34px;
+    }
+    .pc{
+        display: none !important;
+    }
+    .runner {
+        display: flex;
+        flex-wrap: wrap;
+        width: 75%;
+        max-width: 35rem;
+        margin-left: 15%;
+    }
+    .runner-label {
+        padding-top: .40em;
+        font-size: 33px;
+    }
+    .content_proceducer img {
+        width: 15% !important;
+        margin: 10px auto;
+        padding-top: 10px;
+    }
+    .text_pro {
+        background: #fcfcfc;
+        padding: 10px;
+        border-bottom-left-radius: 20px;
+        font-size: 30px;
+    }
+    .head>p, .head2>p {
+        font-size: 34px;
+        font-weight: 500;
+        margin-bottom: 0px;
+        padding-bottom: 20px;
+    }
+    .feedback_slider .content-box{
+        font-size: 30px;
+        padding: 0% 5%;
+    }
+    .note {
+        text-align: center;
+        font-size: 35px;
+    }
+    .feedback_slider button.owl-prev {
+        float: left;
+        margin-left: -80px;
+        margin-top: -22%;
+    }
+    .feedback_slider button.owl-next {
+        float: right;
+        margin-right: -60px;
+        margin-top: -22%;
+    }
+    .device .sapo-subtitle {
+        height: auto;
+        padding-bottom: 10px;
+        padding-top: 0;
+        font-size: 32px;
+        width: 90%;
+        text-align: left;
+    }
+    
+    .container-fix{
+        padding-left: 0px; 
+        margin-left: auto;
+        margin-right: auto; 
+        margin-top: -15%;
+    }
+    .body-skdn .title-h3{
+        font-size: 40px;
+    }
+    .banner .row{
+        margin-left: 0%;
+        margin-right: 0px;
+    }
+    .title-h1{
+        font-size: 60px;
+        padding-left: 0px;
+        text-align: center;
+
+    }
+    .title-h2{
+        font-size: 40px;
+        text-align: center;
+    }
+    .detail_header li {
+        margin-top: 2%;
+        color: #2C7AC4;
+        /*margin-left: 10%;*/
+        font-size: 26px;
+    }
+    /*.dk-header{
+        margin-left: 30%;
+    }*/
+    .box .heading h3{
+        font-size: 28px;
+    }
+    .box .description{
+        font-size: 30px;
+    }
+    .box .title a {
+        font-size: 32px;
+    }
+    .single-news--content h2, h3, h4{
+        font-size: 35px;
+    }
+    .title-qh{
+        font-size: 45px;    
+    }
+    
+    .step {
+        height: 200px;
+    }
+    
+    .feedback .title-h3 {
+        margin-top: 10%;
+    }
+    .feedback .img_box{
+        width: 30%;
+    }
+    p.text-des, p.company{
+        font-size: 30px;
+    }
+    .name_cus{
+        font-size: 38px;
+    } 
+    
+    .feedback .content-box{
+    text-align: center;
+    margin: 20px 0 0;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    .register-main{
+        background-image: url(../images/skdn/ft_mb.jpg);
+        width: 100%;
+        height: auto;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-position: center;
+    }
+ 
+    .regis{
+        width: 70%;
+        margin: 0 auto !important;
+    }
+    .register-form input.form-control, .register-form select.form-control {
+        height: 60px;
+        font-size: 28px;
+    }
+    .col-md-4{
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .dk-header{
+        margin-top: 32%;
+        margin-left: 32%;
+    }
+    .dk-header button{
+        padding: 21px 40px 19px;
+        font-size: 28px;
+    }
+    .menu-active img {
+        max-width: 100%;
+    }
+    .menu-active{
+        float: none;
+    }
+    .menu-active a{
+        margin-left: 40%;
+    }
+    .detail_header li{
+        font-size: 24px;
+    }
+    .body-skdn .title{
+        font-size:45px; 
+        line-height: 52px;
+    }
+    .contact-info p{
+    line-height: 42px !important;
+    font-size: 30px;
+    margin-bottom: 20px;
+   }
+   .contac-p1{
+    font-size: 50px !important;
+   }
+   .contac-p2 {
+        font-size: 36px !important;
+    }
+    .social-main a {
+        width: 64px;
+        height: 64px;
+    }
+    .contact-img1 {
+        max-width: 280px;
+    }
+    .social-main img {
+        position: relative;
+        top: -1px;
+        width: 120px;
+    }
+    .contact-main li {
+        color: #fff;
+        font-size: 26px;
+        margin: 0;
+        padding: 12px 0 12px 40px;
+        position: relative;
+    }
+    
+    .introduce_slider{
+        margin-top: 15%;
+    }
+    .introduce_slider img{
+        width: 80% !important;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .introduce .title-h3{
+        font-size: 35px;
+        padding-top: 10%;
+    }
+    .tt-sec1{
+        height: auto;
+    }
+    .tt-sec1 p{
+        font-size: 30px;
+    }
+    img.img_title_chuyengia {
+        width: 10%;
+        margin-top: -6%;
+        /* float: right; */
+        margin-left: 86%;
+    }
+    .regis_banner{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .regis_banner .dk_ser{
+        margin-top: 0;
+    }
+    .doctor {
+        background-image: url(../images/gen/bg_cgmb.html);
+        width: 100%;
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    .main1{
+        width: 80%;
+        margin-top: 20%;
+    }
+    .register-more .regis {
+        width: 90%;
+        margin: 0 auto;
+
+        margin-bottom: 5%;
+    }
+    .register-more .register-form {
+        margin-top: 35%;
+    }
+    .register-more .register-form button{
+        font-size: 35px !important;
+        line-height: 50px !important;
+    }
+    .register-form .form-group.form-group--btn button{
+        font-size: 25px;
+        padding: 10px 25px 10px;
+    }
+    .fb_detail{
+        max-width: 100%;
+    }
+    .feedback_slider .img_box img{
+        margin: 0 auto;
+    }
+    .chuyengia_slider button.owl-next{
+        float: right;
+        margin-right: -30px;
+        margin-top: -65%;
+    }
+    .chuyengia_slider button.owl-prev{
+        float: left;
+        margin-left: -30px;
+        margin-top: -65%;
+    }
+    .serv_mb button.owl-prev{
+        float: left;
+        margin-left: -50px;
+        margin-top: -45%;
+    }
+    .serv_mb button.owl-next{
+        float: right;
+        margin-right: -50px;
+        margin-top: -45%;
+    }
+    .chuyengia_slider button span,.introduce_slider button span,
+    .slider_service button span, .procedure_slider button span,
+    .serv_mb button span {
+        font-size: 100px !important;
+    }
+    .serv_mb button span {
+        font-size: 100px !important;
+        color: #0769AE;
+    }
+    .slider_service button.owl-prev {
+        float: left;
+        margin-left: -30px;
+        margin-top: -45%;
+    }
+    .introduce_slider button.owl-prev{
+        float: left;
+        margin-left: -30px;
+        margin-top: -65%;
+    }
+    .introduce_slider button.owl-next{
+        float: right;
+        margin-right: -30px;
+        margin-top: -65%;
+    }
+    .slider_service button.owl-next{
+        float: right;
+        margin-right: -30px;
+        margin-top: -45%;
+    }
+    .procedure_slider button.owl-prev {
+        float: left;
+        margin-left: -30px;
+        margin-top: -65%;
+    }
+    .procedure_slider button.owl-next{
+        float: right;
+        margin-right: -30px;
+        margin-top: -65%;
+    }
+    .register-form .form-group.form-group--btn {
+        margin-bottom: 0;
+        margin-bottom: -5%;
+        text-align: center;
+    }
+   
+    .box .title{
+        font-size: 30px !important;
+        line-height: 32px !important;
+        color: #fcfcfc !important;
+    }
+    .goikham{
+        background-image: url(../images/skdn/Sec05-BGmb.png);
+    }
+    .service_slider button.owl-prev{
+        float: left;
+        margin-left: -48px;
+        margin-top: -62%;
+    }
+    .main1 .register-form{
+        margin-top: 0px;
+    }
+    .main1 .title>span{
+        font-size: 50px;
+    }
+    .sap_regis{
+        font-size:28px; 
+    }
+    .dk_serr>a {
+        font-size: 28px;
+    }
+    .service_slider button.owl-next{
+        float: right;
+        margin-right: -48px;
+        margin-top: -62%;
+    }
+    .service_slider button span {
+        font-size: 60px !important;
+        color: #fcfcfc !important;
+    }
+    .goikham .title_service {
+        width: 50%;
+        height: 60px;
+    }
+    .detail .head>p{
+        padding: 0px 0px 5px 0px;
+        font-size: 35px;
+    }
+    .owl-carousel.serv_mb.owl-loaded.owl-drag {
+        margin: 15% 0;
+    }
+    .serv_mb img{
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px #0000002b;
+    }
+    .data .title-h3{
+        padding: 10% 0  1% 0;
+    }
+    .img_sec3 {
+        padding-bottom: 10%;
+        margin: 0;
+
+    }
+    .chuyengia.doc_sec .title_chuyengia{
+        width: 60%;
+    }
+    .service_slider .item {
+        height: 600px;
+    }
+    .introduce .detail .item img{
+        width: 65%;
+    }
+    .register-main .regis{
+        margin: 14% auto 5% !important;
+    }
+}
